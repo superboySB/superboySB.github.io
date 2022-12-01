@@ -1,5 +1,5 @@
 # 📎 Homepages
-- Personal Pages: https://rayeren.github.io (updated recently🔥)
-- Linkedin: https://www.linkedin.com/in/rayeren
-- Google Scholar: https://scholar.google.com/citations?user=4FA6C0AAAAAJ
-- DBLP: https://dblp.org/pid/75/6568-6.html
+- Personal Pages: https://www.zipengdai.com (updated recently🔥)
+- Linkedin: https://www.linkedin.com/in/superboySB
+- Google Scholar: https://scholar.google.com/citations?user=e2c7Kt0AAAAJ
+- DBLP: https://dblp.org/pid/266/6184.html
