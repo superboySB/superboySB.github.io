@@ -51,7 +51,7 @@ Some examples:
     1. You can use a `<span>` tag with class `show_paper_citations` and attribute `data` to display the citations of your paper. Set the data to the google scholar paper ID. For
         ```html
         <span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span>
-        ``` 
+        ```
         > Q: How to get the google scholar paper ID?   
         > A: Enter your google scholar homepage and click the paper name. Then you can see the paper ID from `citation_for_view=XXXX`, where `XXXX` is the required paper ID.
 1. Your page will be published at `https://USERNAME.github.io`.
@@ -59,7 +59,7 @@ Some examples:
 ## Debug Locally
 
 1. Clone your REPO to local using `git clone`.
-1. Install Jekyll building environment, including `Ruby`, `RubyGems`, `GCC` and `Make` following [the installation guide](https://jekyllrb.com/docs/installation/#requirements).
+1. Install Jekyll building environment, including `Ruby`, `RubyGems`, `GCC` and `Make` following [the installation guide](https://jekyllrb.com/docs/installation/#requirements) and the [raw project's instruction](https://github.com/academicpages/academicpages.github.io). Ubuntu (including Windows WSL) or MacOS platforms are recommended. 
 1. Run `bash run_server.sh` to start Jekyll livereload server.
 1. Open http://127.0.0.1:4000 in your browser.
 1. If you change the source code of the website, the livereload server will automatically refresh.
