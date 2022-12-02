@@ -10,7 +10,11 @@ source "https://gems.ruby-china.com/"
 # Happy Jekylling!
 
 gem "github-pages", group: :jekyll_plugins
-gem 'tzinfo-data'
+
+platforms :mingw, :x64_mingw, :mswin, :jruby do
+  gem "tzinfo", ">= 1", "< 3"
+  gem "tzinfo-data"
+end
 
 # If you want to use Jekyll native, uncomment the line below.
 # To upgrade, run `bundle update`.
