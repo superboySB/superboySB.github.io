@@ -19,4 +19,4 @@ redirect_from:
 
 {% include_relative includes/others.md %}
 
-Design and source code inspired from [Yi Ren](https://rayeren.github.io/)'s awesome and open-sourced template.
+Design and source code inspired from [Yi Ren](https://rayeren.github.io/)'s awesome template.

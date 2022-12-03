@@ -16,7 +16,7 @@ google_analytics_id      : G-0GMKY2NN7J
 
 # SEO Related
 google_site_verification : UTiIYrh3UtfoMkWoOow6EtPS3v11DwuGKpHGciVCeZs
-bing_site_verification   : B5AA590E7B9C03956A6F7DEC0F776211
+bing_site_verification   : # Can import the Google site verification code
 baidu_site_verification  : code-r8tC9kbric
 
 # Site Author
@@ -29,7 +29,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=e2c7Kt0AAAAJ"
   email            : "daizipeng@bit.edu.cn"
-  researchgate     : "https://www.researchgate.net/profile/Zipeng-Dai"
+  researchgate     : "https://www.researchgate.net/profile/Zipeng-Dai-2"
   uri              :
   bitbucket        :
   codepen          :
