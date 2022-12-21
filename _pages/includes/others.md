@@ -5,7 +5,7 @@
 - *2012.09 - 2015.06*, Yaohua High School, Tianjin.
 
 # 💬 Invited Talks
-- *2022.07*, Zero-Shot Coordination: A Survey about Human-AI, Huawei Noah's Ark Lab internal discussion
+- *2022.07*, Zero-Shot Coordination: A Survey about Human-AI Collaboration, Huawei Noah's Ark Lab internal discussion
 - *2022.12*, Socially-Attentive Policy Optimization in Multi-Agent Self-Driving System, [DAI 2022](http://www.adai.ai/dai/2022/invited_papers.html#s6), Tianjin
 
 # 💻 Internships

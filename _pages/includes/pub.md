@@ -8,7 +8,9 @@
 [AoI-minimal UAV Crowdsensing by Model-based Graph Convolutional Reinforcement Learning](https://ieeexplore.ieee.org/document/9796732/) \\
 **Zipeng Dai**, Chi Harold Liu, Yuxiao Ye, Rui Han, Ye Yuan, Guoren Wang, Jian Tang
 
-[**Code**](https://github.com/BIT-MCS/GCRL-min-AoI) \| [![](https://img.shields.io/github/stars/BIT-MCS/GCRL-min-AoI?style=social&label=Code+Stars)](https://github.com/BIT-MCS/GCRL-min-AoI) 
+**INFOCOM 2023** <span style="color:red">(Oral)</span>
+
+[**Project**](https://github.com/BIT-MCS/GCRL-min-AoI) \| [![](https://img.shields.io/github/stars/BIT-MCS/GCRL-min-AoI?style=social&label=Code+Stars)](https://github.com/BIT-MCS/GCRL-min-AoI) 
 </div>
 </div>
 
