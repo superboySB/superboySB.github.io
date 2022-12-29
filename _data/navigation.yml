@@ -21,5 +21,11 @@ main:
   - title: "Internships"
     url: "/#-internships"
 
-  - title: "知乎"
+  - title: "Services"
+    url: "/#-services"
+
+  - title: "Blogs"
     url: "https://www.zhihu.com/people/daizipeng"
+
+  - title: "Daily Life"
+    url: "https://www.weibo.com/u/7285095799"
