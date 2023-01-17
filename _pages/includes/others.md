@@ -8,8 +8,9 @@
 
 
 # 💬 Invited Talks
-- *2022.12.17*, Socially-Attentive Policy Optimization in Multi-Agent Self-Driving System, [DAI 2022](http://www.adai.ai/dai/2022/invited_papers.html#s6), Tianjin 
-- *2022.07.26*, Zero-Shot Coordination: A Survey about Human-AI Collaboration, Huawei Noah's Ark Lab internal discussion
+- *2023.01.17*, 基于社会价值取向的无人车交互决策方法, [RLChina论文研讨会](http://rlchina.org/topic/631)（第37期）, Online.
+- *2022.12.17*, Socially-Attentive Policy Optimization in Multi-Agent Self-Driving System, [DAI 2022](http://www.adai.ai/dai/2022/invited_papers.html#s6), Tianjin.
+- *2022.07.26*, Zero-Shot Coordination: A Survey about Human-AI Collaboration, Huawei Noah's Ark Lab internal discussion, Beijing.
 
 # 💻 Internships
 - *2021.10 - Now*, [Huawei Noah's Ark Lab](https://www.noahlab.com.hk/), Beijing. (Mentor: [Kun Shao](https://scholar.google.com/citations?user=4CNMLWAAAAAJ))
