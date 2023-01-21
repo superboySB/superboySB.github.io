@@ -7,7 +7,6 @@
 <div class='paper-box-text' markdown="1">
 [AoI-minimal UAV Crowdsensing by Model-based Graph Convolutional Reinforcement Learning](https://ieeexplore.ieee.org/document/9796732/) \\
 **Zipeng Dai**, Chi Harold Liu, Yuxiao Ye, Rui Han, Ye Yuan, Guoren Wang, Jian Tang
-
 **INFOCOM 2022** <span style="color:red">(Oral)</span>
 
 [**Project**](https://github.com/BIT-MCS/GCRL-min-AoI) \| [![](https://img.shields.io/github/stars/BIT-MCS/GCRL-min-AoI?style=social&label=Code+Stars)](https://github.com/BIT-MCS/GCRL-min-AoI) 
@@ -24,8 +23,9 @@
 - [Distributed and Energy-Efficient Mobile Crowdsensing with Charging Stations by Deep Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/8821415/), Chi Harold Liu, **Zipeng Dai**, Yinuo Zhao, Jon Crowcroft, Dapeng Wu, Kin K. Leung, IEEE Transactions on Mobile Computing (**TMC**), 2019, [![](https://img.shields.io/github/stars/BIT-MCS/e-Divert?style=social&label=Code+Stars)](https://github.com/BIT-MCS/e-Divert) 
 
 ## 🚖 Unmanned Vehicles
-- [Socially-Attentive Policy Optimization in Multi-Agent Self-Driving System](https://openreview.net/pdf?id=KXkzplx6H2K), **Zipeng Dai**, Tianze Zhou, Kun Shao, David Henry Mguni, Bin Wang, Jianye Hao, **CoRL 2022**
+- [Socially-Attentive Policy Optimization in Multi-Agent Self-Driving System](https://openreview.net/pdf?id=KXkzplx6H2K), **Zipeng Dai**, Tianze Zhou, Kun Shao, David Henry Mguni, Bin Wang, Jianye Hao, **CoRL 2022** (Poster)
 
 ## 🎟 Others
-- Learning to Shape Rewards using a Game of Two Partners, David Mguni, Taher Jafferjee, Jianhong Wang, Nicolas Perez-Nieves, Wenbin Song, Feifei Tong, Matthew Taylor, Tianpei Yang, **Zipeng Dai**, Hui Chen, Jiangcheng Zhu, Kun Shao, Jun Wang, Yaodong Yang, **AAAI 2023**
+- [Timing is Everything: Learning to Act Selectively with Costly Actions and Budgetary Constraints](https://openreview.net/forum?id=_BoPed4tYww), David Mguni, Aivar Sootla, Juliusz Krzysztof Ziomek, Oliver Slumbers, **Zipeng Dai**, Kun Shao, Jun Wang, **ICLR 2023** (Poster)
+- Learning to Shape Rewards using a Game of Two Partners, David Mguni, Taher Jafferjee, Jianhong Wang, Nicolas Perez-Nieves, Wenbin Song, Feifei Tong, Matthew Taylor, Tianpei Yang, **Zipeng Dai**, Hui Chen, Jiangcheng Zhu, Kun Shao, Jun Wang, Yaodong Yang, **AAAI 2023** (Poster)
 - [Time-Aware Location Prediction by Convolutional Area-of-Interest Modeling and Memory-Augmented Attentive LSTM](https://ieeexplore.ieee.org/abstract/document/9128016/), Chi Harold Liu, Yu Wang, Chengzhe Piao, **Zipeng Dai**, Ye Yuan, Guoren Wang, Dapeng Wu, IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2020, [![](https://img.shields.io/github/stars/BIT-MCS/Time-Aware-Location-Prediction?style=social&label=Code+Stars)](https://github.com/BIT-MCS/Time-Aware-Location-Prediction) 
