@@ -21,5 +21,6 @@
 - **Journal Reviewer**:  IEEE Network Magazine, IEEE Transactions on Mobile Computing (TMC), IEEE Transactions on Wireless Communications (TWC), IEEE Transactions on Vehicular Technology (TVT), IEEE Internet of Things Journal (IOT), IEEE Transactions on Network Science and Engineering (TNSE), Chinese Journal of Electronics (电子学报), The Journal of Supercomputing -->
 
 # 🤝 Partner Links
+- [Chengzhe Piao](https://profiles.ucl.ac.uk/85735-chengzhe-piao) (He was the most impressive senior colleague I met during my graduate studies. Before he went to UCL for a PhD in interdisciplinary medical studies, he had already demonstrated exceptional research intuition in AI for science and generative models.)
 - [Hao Wang](https://haoowang.cn/) (He is the [only genius in the history of the school](https://xtlfund.bit.edu.cn/index.htm) to have received the highest honor scholarship during both his undergraduate and graduate studies.)
 - [Yuxiao Ye](https://yuxiaooye.github.io/) (He was interviewed by a [well-known blogger](https://www.bilibili.com/video/BV1BY411y7WU/?spm_id_from=333.337.search-card.all.click&vd_source=08fff1ed5227769a56d4d8a137baab4d) for a project that won a grand prize.)
