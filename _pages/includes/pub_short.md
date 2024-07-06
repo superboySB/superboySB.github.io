@@ -14,8 +14,8 @@ My full paper list is shown at [my personal homepage](http://zipengdai.com/).
 <html>
 
 <div align="center"> 
-	<img src="https://github-readme-stats.vercel.app/api?username=superboySB&show_icons=true&theme=transparent" />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=superboySB&hide=html,jupyter%20notebook&theme=transparent" />
+	<img src="https://github-readme-stats.vercel.app/api?username=superboySB&count_private=true&hide=issues&show_icons=true&theme=transparent" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=superboySB&count_private=true&layout=compact&theme=transparent" />
 </div>
 
 </html>
