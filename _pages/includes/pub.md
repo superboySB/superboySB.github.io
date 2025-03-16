@@ -26,6 +26,8 @@
 - ``CoRL 2022`` [Socially-Attentive Policy Optimization in Multi-Agent Self-Driving System](https://openreview.net/pdf?id=KXkzplx6H2K), **Zipeng Dai**, Tianze Zhou, Kun Shao, David Henry Mguni, Bin Wang, Jianye Hao
 
 ## 🎟 Others
+- ``AAMAS 2025`` [Timing is Everything: Learning to Act Selectively with Costly Actions and Budgetary Constraints](https://arxiv.org/pdf/2209.01054), Taher Jafferjee, Juliusz Ziomek, Tianpei Yang, **Zipeng Dai**, Jianhong Wang, Matthew E. Taylor, Kun Shao, Jun Wang, David Mguni
+- ``IEEE Transactions on Games`` [CuDA2: An Approach for Incorporating Traitor Agents into Cooperative Multi-Agent Systems](https://ieeexplore.ieee.org/abstract/document/10734173), Zhen Chen, Yong Liao, Youpeng Zhao, **Zipeng Dai**, Jian Zhao
 - ``IEEE Transactions on Computers`` [HiBid: A Cross-Channel Constrained Bidding System with Budget Allocation by Hierarchical Offline Deep Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/10360353), Hao Wang, Bo Tang, Chi Harold Liu, Shangqin Mao, Jiahong Zhou, **Zipeng Dai**, Yaqi Sun, Qianlong Xie, Xingxing Wang, Dong Wang
 - ``IEEE Transactions on Games`` [Cooperative Multi-Agent Transfer Learning with Coalition Pattern Decomposition](https://ieeexplore.ieee.org/abstract/document/10114566), Tianze Zhou, Fubiao Zhang, Kun Shao, **Zipeng Dai**, Kai Li, Wenhan Huang, Weixun Wang, Bin Wang, Dong Li, Wulong Liu, Jianye Hao
 - ``ICLR 2023`` [Timing is Everything: Learning to Act Selectively with Costly Actions and Budgetary Constraints](https://openreview.net/forum?id=_BoPed4tYww), David Mguni, Aivar Sootla, Juliusz Krzysztof Ziomek, Oliver Slumbers, **Zipeng Dai**, Kun Shao, Jun Wang
