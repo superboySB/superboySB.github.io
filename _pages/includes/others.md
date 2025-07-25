@@ -13,6 +13,7 @@
 - *2022.07.26*, Zero-Shot Coordination: A Survey about Human-AI Collaboration, Huawei Noah's Ark Lab internal discussion, Beijing.
 
 # 💻 Internships
+- *2024.04 - 2025.05*  [Polixir Technologies](https://ivcon.cn/), Nanjing. (Mentor: [Rongjun Qin](https://www.lamda.nju.edu.cn/qinrj/))
 - *2023.04 - 2024.04*, Qiyuan Lab, Beijing. (Mentor: [Chao Wang](https://scholar.google.com/citations?hl=en&user=qmDGt-kAAAAJ))
 - *2021.10 - 2023.03*, [Huawei Noah's Ark Lab](https://www.noahlab.com.hk/), Beijing. (Mentor: [Kun Shao](https://scholar.google.com/citations?user=4CNMLWAAAAAJ))
 
@@ -21,6 +22,7 @@
 - **Journal Reviewer**:  IEEE Network Magazine, IEEE Transactions on Mobile Computing (TMC), IEEE Transactions on Wireless Communications (TWC), IEEE Transactions on Vehicular Technology (TVT), IEEE Internet of Things Journal (IOT), IEEE Transactions on Network Science and Engineering (TNSE), Chinese Journal of Electronics (电子学报), The Journal of Supercomputing -->
 
 # 🤝 Partner Links
+- [Polixir Technologies](https://ivcon.cn/) (During a period when I felt lost and helpless, I am deeply grateful to the students in Professor [Yang Yu](https://www.lamda.nju.edu.cn/yuy/MainPage.ashx?AspxAutoDetectCookieSupport=1)'s team for providing me with immense emotional support and inspiring my direction in life. I am also willing to share my past research experience and project resources in the field of UAV networks with them.)
 - [Chengzhe Piao](https://profiles.ucl.ac.uk/85735-chengzhe-piao) (He was the most impressive senior colleague I met during my graduate studies. Before he went to UCL for a PhD in interdisciplinary medical studies, he had already demonstrated exceptional research intuition in AI for science and generative models.)
 - [Hao Wang](https://haoowang.cn/) (He is the [only genius in the history of the school](https://xtlfund.bit.edu.cn/index.htm) to have received the highest honor scholarship during both his undergraduate and graduate studies.)
 - [Yuxiao Ye](https://yuxiaooye.github.io/) (He was interviewed by a [well-known blogger](https://www.bilibili.com/video/BV1BY411y7WU/?spm_id_from=333.337.search-card.all.click&vd_source=08fff1ed5227769a56d4d8a137baab4d) for a project that won a grand prize.)
