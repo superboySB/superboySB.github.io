@@ -1,6 +1,6 @@
 
 # 📖 Educations
-- *2019.06 - Now*, PhD, Beijing Institute of Techonolgy, Beijing.
+- *2019.06 - 2025.09*, PhD, Beijing Institute of Techonolgy, Beijing.
 
 - *2015.09 - 2019.06*, Undergraduate, Beijing Institute of Techonolgy, Beijing.
 
@@ -13,8 +13,9 @@
 - *2022.07.26*, Zero-Shot Coordination: A Survey about Human-AI Collaboration, Huawei Noah's Ark Lab internal discussion, Beijing.
 
 # 💻 Internships
+- *2025.07 - 2025.09*  [COWAROBOT](https://www.cowarobot.com/), Shanghai. (Mentor: [Pai Peng](https://scholar.google.com/citations?user=s8m-hZoAAAAJ&hl=en))
 - *2024.04 - 2025.05*  [Polixir Technologies](https://ivcon.cn/), Nanjing. (Mentor: [Rongjun Qin](https://www.lamda.nju.edu.cn/qinrj/))
-- *2023.04 - 2024.04*, Qiyuan Lab, Beijing. (Mentor: [Chao Wang](https://scholar.google.com/citations?hl=en&user=qmDGt-kAAAAJ))
+- *2023.04 - 2024.04*, [Qiyuan Lab](https://baike.baidu.com/item/%E5%90%AF%E5%85%83%E5%AE%9E%E9%AA%8C%E5%AE%A4/63482724), Beijing. (Mentor: [Chao Wang](https://scholar.google.com/citations?hl=en&user=qmDGt-kAAAAJ))
 - *2021.10 - 2023.03*, [Huawei Noah's Ark Lab](https://www.noahlab.com.hk/), Beijing. (Mentor: [Kun Shao](https://scholar.google.com/citations?user=4CNMLWAAAAAJ))
 
 <!-- # 👔 Services
