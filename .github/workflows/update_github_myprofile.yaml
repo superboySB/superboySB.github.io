@@ -1,15 +1,46 @@
 name: Update github myprofile
 
-on: 'page_build'
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/update_github_myprofile.yaml"
+      - "_pages/includes/**"
+      - "github_myprofile_updater/**"
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: update-github-profile
+  cancel-in-progress: true
+
+permissions:
+  contents: read
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
-    - name: Install Reqs
-      run: |
-        sudo apt-get install python3-setuptools
-    - name: Run
+    - uses: actions/checkout@v4
+    - name: Generate GitHub stats card
+      uses: stats-organization/github-readme-stats-action@v2
+      with:
+        card: stats
+        options: username=superboySB&hide=issues&show_icons=true&theme=transparent
+        path: github_myprofile_updater/images/github-stats.svg
+        token: ${{ secrets.GHRS_GITHUB_API_TOKEN }}
+        fail_on_error: true
+    - name: Generate top languages card
+      uses: stats-organization/github-readme-stats-action@v2
+      with:
+        card: top-langs
+        options: username=superboySB&layout=compact&theme=transparent
+        path: github_myprofile_updater/images/top-langs.svg
+        token: ${{ secrets.GHRS_GITHUB_API_TOKEN }}
+        fail_on_error: true
+    - name: Update profile repository
       run: |
         cd ./github_myprofile_updater
         python3 update.py
